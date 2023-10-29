@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card-img-top{
+    display: block;
+    margin: 0 auto;
+    width: 80px !important;
+    margin-top: 10px;
+    height: 200px;
+    margin-bottom: 5px;
+}
+.list-group-item{
+    font-size: 14px !important;
+}
+.card-body:hover{
+    cursor: pointer;
+    background-color:black !important;
+    color: aliceblue !important;
+}
